@@ -16,7 +16,7 @@ class Program
         Job job2 = new Job();
         job2._company = "Mojang";
         job2._jobTitle = "Designer";
-        job2._startYear = 2023;
+        job2._startYear = 2023;6
         job2._endYear = 2024;
 
         Resume myResume = new Resume();
