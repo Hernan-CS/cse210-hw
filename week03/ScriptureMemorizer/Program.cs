@@ -8,7 +8,7 @@ class Program
         Regarding the code, although it's difficult to memorize many verses than just one, I display 
         from 7 to 9 and make some of the words disappear gradually. I intended to display many verses and not
         only one. */
-        Reference reference = new Reference("1 Kings", 1, 7, 9);
+        Reference reference = new Reference("1 Kings", 3, 7, 9);
         /*For that, I stored them in a list.*/
         List<string> verses = new List<string>
         {
